@@ -19,7 +19,7 @@ Not all hard-sector floppies are the same sector count. Usually a computer is on
 Double-sided (DS) floppies will work for both double and single-sided drives. Single-sided (SS) floppies will work only in single-sided drives.
 
 ## Files
-Provided are CAD files in various formats for a 10 sector 5.25" punch. They have been tested to work both as 3D printed PLA and CNC'd stainless steel. In both cases the punch holes in each half were undersized and final reamed as a unit.
+Provided are CAD files in various formats for a 10 sector 5.25" punch. They have been tested to work both as 3D printed PLA and CNC'd stainless steel. These were designed in Autodesk Inventor which uses ipt files. The exported stp files should be compatible with nearly all programs.
 
 ## Reaming
 It's recommended to ream the punch holes to ensure as close of a fit as possible to the punch pin. McMaster #8803A208 reamer worked fine for both stainless steel and PLA. Use lots of oil/water respectively to keep things cool. Make sure both parts are aligned and tightened together when reaming. This will help ensure the holes are perfectly aligned between the top/bottom tools.
